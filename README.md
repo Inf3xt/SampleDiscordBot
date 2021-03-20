@@ -8,7 +8,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install discord
 
 **Note: my python version is 3.7.8, this may differ to you.**
 ## Windows [REM is a comment]:
-```liquid
+```
 C:\> python -m pip install discord
 C:\> REM Do this to check if it installed
 C:\> python -m discord
@@ -34,3 +34,6 @@ $ python3 filename.py
 [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
 
 ## Made by Inf3xt :D
+My social media:
+* Discord -> Inf3xt#7373
+Please contact or make an issue if you require any help at all!
