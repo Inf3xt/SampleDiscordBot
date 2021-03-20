@@ -47,3 +47,4 @@ try:
     bot.run(token) # This will initialise the bot connection to discord
 except discord.errors.LoginFailure:
     print("That token does not work!")
+    exit(0) # Ends the program if failure.
