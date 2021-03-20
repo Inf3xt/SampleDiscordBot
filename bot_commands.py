@@ -13,9 +13,8 @@ Anyways, this has been Inf3xt, but I'm out. Have fun making a bot in python!
 import discord
 from discord.ext import commands
 
-# This is how to call the command(s).
 token = "" # This is not recommended, you should use json, database or an external file
-command_prefix = "."
+command_prefix = "." # This is how to call the command(s).
 # I honestly hope you know about variables...
 # This can be anything...
 bot = commands.Bot(command_prefix=command_prefix)
