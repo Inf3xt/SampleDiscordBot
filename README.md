@@ -26,8 +26,8 @@ $ python3 filename.py
 ```
 
 ## 📜 To do:
-* ~~Add @bot.command way to handle commands. ~~
-* ~~Add another example of ways to handle commands. ~~
+* ~~Add @bot.command way to handle commands.~~
+* ~~Add another example of ways to handle commands.~~
 * Add examples of cogs.
 
 ## License
