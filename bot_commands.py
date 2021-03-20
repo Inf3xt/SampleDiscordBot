@@ -31,7 +31,7 @@ async def on_ready(): # This will be called when the bot connection is initiated
     # You are connected to <bot username>
 
 @bot.command()
-async def echo(ctx, arg1=""): # You can add parameters here, they can also be optional as seen below
+async def echo(ctx, arg1=""): # You can add parameters here, they can also be optional as seen below.
     if not arg1:
         await ctx.send("Please enter an arguement to repeat!")
     else:
