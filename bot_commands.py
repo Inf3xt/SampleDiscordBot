@@ -6,7 +6,7 @@ this is probably not the best repo for you to be...
 
 I don't usually comment my code, this is new to me.. if it is not the best, that's my reason.
 
-Anyways, this has been Inf3xt, but I'm out. Have fun making a bot in python!
+Anyways, this has been Inf3xt, 👋. Have fun making a bot in python!
 """
 
 # Imports and stuff
