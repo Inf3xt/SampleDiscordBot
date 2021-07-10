@@ -7,21 +7,18 @@ This is a template for someone who would want a starting point in making their b
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install discord (the python package). 
 
 **Note: my python version is 3.7.8, this may differ to you.**
-## Windows [REM is a comment]:
+## Windows:
 ```
-C:\> python -m pip install discord
-C:\> REM Do this to check if it installed
+C:\> python -m pip install discord (May need --user flag if it failed)
 C:\> python -m discord
-C:\> REM No errors means it's installed :D
-C:\> REM Finally run this command to run the bot
 C:\> python filename.py
 ```
-## Linux [# is a comment]:
+## Linux:
 ```bash
-$ pip3 install discord
-$ # Do this to check if it is installed
+$ pip3 install discord # If failed, use with --user flag
+
 $ python3 -m discord # No errors means it's installed :D
-$ # Finally run this command to run the bot
+
 $ python3 filename.py
 ```
 
